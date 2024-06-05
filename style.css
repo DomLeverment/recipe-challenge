@@ -31,6 +31,8 @@ body {
     align-items: center;
     min-height: 100vh;
     text-align: left;
+    padding-top: 124px;
+    padding-bottom: 124px;
 }
 
 .main-recipe {
