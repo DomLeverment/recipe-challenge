@@ -9,7 +9,7 @@ A recipe page from frontend mentor. I couldn't quite get one of the <td> to alig
 
 ### Screenshot
 
-((recipe-page-main/assets/images/Screenshot 2024-06-05 at 22.27.18.png))
+![recipe screenshot](<recipe-page-main/assets/images/Screenshot 2024-06-05 at 22.27.18.png>)
 
 
 ### Built with
