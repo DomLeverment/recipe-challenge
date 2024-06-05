@@ -26,4 +26,4 @@ Learnt a lot
 - load two types of font
 - needing to be precise with css
 
-I still need help from chatgpt and have taken a learning point for media queries to ensur mobile friendliness
+I still need help from chatgpt and have taken a learning point for media queries to ensure mobile friendliness
